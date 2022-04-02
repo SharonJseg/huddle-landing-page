@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/huddle-landing-page/static/css/main.d18987eb.css",
+    "main.js": "/huddle-landing-page/static/js/main.b7d322d7.js",
+    "static/media/OpenSans-Regular.woff": "/huddle-landing-page/static/media/OpenSans-Regular.03a20a68b7c3b6428403.woff",
+    "static/media/Poppins-Regular.woff": "/huddle-landing-page/static/media/Poppins-Regular.ab6122bd28174ddf9eeb.woff",
+    "static/media/Poppins-SemiBold.woff": "/huddle-landing-page/static/media/Poppins-SemiBold.07608aed0ae659b64793.woff",
+    "static/media/OpenSans-Regular.woff2": "/huddle-landing-page/static/media/OpenSans-Regular.1cdb8c540cb38930e28d.woff2",
+    "static/media/Poppins-Regular.woff2": "/huddle-landing-page/static/media/Poppins-Regular.9641d5d087bc9e626d4c.woff2",
+    "static/media/Poppins-SemiBold.woff2": "/huddle-landing-page/static/media/Poppins-SemiBold.7a16d320d307a9a47666.woff2",
+    "static/media/illustration-mockups.svg": "/huddle-landing-page/static/media/illustration-mockups.264994a533e88e58ad2a10b6ae6856e0.svg",
+    "static/media/logo.svg": "/huddle-landing-page/static/media/logo.2b3c07e4842b59538e846f54ed4b3891.svg",
+    "static/media/bg-desktop.svg": "/huddle-landing-page/static/media/bg-desktop.6824779f0b32ead7a24a1984c63ba7ca.svg",
+    "static/media/bg-mobile.svg": "/huddle-landing-page/static/media/bg-mobile.41ba0830da0732cda5596ccb9677862c.svg",
+    "index.html": "/huddle-landing-page/index.html",
+    "main.d18987eb.css.map": "/huddle-landing-page/static/css/main.d18987eb.css.map",
+    "main.b7d322d7.js.map": "/huddle-landing-page/static/js/main.b7d322d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d18987eb.css",
+    "static/js/main.b7d322d7.js"
+  ]
+}
