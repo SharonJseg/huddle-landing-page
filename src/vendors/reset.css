@@ -33,9 +33,9 @@ p {
 }
 
 body {
-  background: #fafafa;
+  background: #684bb1;
   font-family: var(--ff);
-  color: var(--clr-text);
+  color: #fff;
   width: 100%;
   margin: 0 auto;
   min-height: 100vh;

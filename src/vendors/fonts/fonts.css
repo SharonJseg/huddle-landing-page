@@ -8,12 +8,12 @@
 }
 
 @font-face {
-  font-family: 'Poppins';
+  font-family: 'Open Sans';
   font-style: normal;
-  font-weight: 500;
+  font-weight: 400;
   font-display: swap;
-  src: url('Poppins-Medium.woff') format('woff'),
-    url('Poppins-Medium.woff2') format('woff2');
+  src: url('OpenSans-Regular.woff') format('woff'),
+    url('OpenSans-Regular.woff2') format('woff2');
 }
 
 @font-face {
@@ -23,13 +23,4 @@
   font-display: swap;
   src: url('Poppins-SemiBold.woff') format('woff'),
     url('Poppins-SemiBold.woff2') format('woff2');
-}
-
-@font-face {
-  font-family: 'Poppins';
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-  src: url('Poppins-Bold.woff') format('woff'),
-    url('Poppins-Bold.woff2') format('woff2');
 }
